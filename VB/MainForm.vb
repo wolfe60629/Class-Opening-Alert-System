@@ -527,7 +527,7 @@ Public Class DataCompTool
         My.Settings.EmailUserName = "collegetextnotifier@gmail.com"
         My.Settings.ServerAddress = "smtp.gmail.com"
         My.Settings.ServerPort = 587
-        My.Settings.EmailPassword = "Jeremy1996@"
+        My.Settings.EmailPassword = ""
         My.Settings.Save()
 
         'Set The Alert Method
