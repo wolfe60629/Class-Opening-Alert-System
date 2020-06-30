@@ -1,0 +1,76 @@
+g:\documents\visual studio 2012\Projects\ung\ung\bin\Debug\ung.exe.config
+g:\documents\visual studio 2012\Projects\ung\ung\obj\Debug\ung.Form1.resources
+g:\documents\visual studio 2012\Projects\ung\ung\obj\Debug\ung.Resources.resources
+g:\documents\visual studio 2012\Projects\ung\ung\obj\Debug\ung.vbproj.GenerateResource.Cache
+g:\documents\visual studio 2012\Projects\ung\ung\bin\Debug\ung.exe
+g:\documents\visual studio 2012\Projects\ung\ung\bin\Debug\ung.pdb
+g:\documents\visual studio 2012\Projects\ung\ung\bin\Debug\ung.xml
+g:\documents\visual studio 2012\Projects\ung\ung\obj\Debug\ung.exe
+g:\documents\visual studio 2012\Projects\ung\ung\obj\Debug\ung.xml
+g:\documents\visual studio 2012\Projects\ung\ung\obj\Debug\ung.pdb
+g:\documents\visual studio 2012\Projects\ung\ung\obj\Debug\Interop.EASendMailObjLib.dll
+g:\documents\visual studio 2012\Projects\ung\ung\obj\Debug\ung.vbproj.ResolveComReference.cache
+g:\documents\visual studio 2012\Projects\ung\ung\obj\Debug\ung.Form2.resources
+g:\documents\visual studio 2012\Projects\ung\ung\obj\Debug\ung.Settings.resources
+g:\documents\visual studio 2012\Projects\ung\ung\bin\Debug\ung.exe.manifest
+g:\documents\visual studio 2012\Projects\ung\ung\bin\Debug\ung.application
+g:\documents\visual studio 2012\Projects\ung\ung\obj\Debug\ung.exe.manifest
+g:\documents\visual studio 2012\Projects\ung\ung\obj\Debug\ung.application
+C:\Users\Jeremy\Desktop\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\bin\Debug\ung.exe.config
+C:\Users\Jeremy\Desktop\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\Interop.EASendMailObjLib.dll
+C:\Users\Jeremy\Desktop\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.vbproj.ResolveComReference.cache
+C:\Users\Jeremy\Desktop\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.exe
+C:\Users\Jeremy\Desktop\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.xml
+C:\Users\Jeremy\Desktop\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.pdb
+C:\Users\Jeremy\Desktop\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\bin\Debug\ung.exe.manifest
+C:\Users\Jeremy\Desktop\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\bin\Debug\ung.application
+C:\Users\Jeremy\Desktop\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\bin\Debug\ung.exe
+C:\Users\Jeremy\Desktop\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\bin\Debug\ung.pdb
+C:\Users\Jeremy\Desktop\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\bin\Debug\ung.xml
+C:\Users\Jeremy\Desktop\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.Form1.resources
+C:\Users\Jeremy\Desktop\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.Form2.resources
+C:\Users\Jeremy\Desktop\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.Resources.resources
+C:\Users\Jeremy\Desktop\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.Settings.resources
+C:\Users\Jeremy\Desktop\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.vbproj.GenerateResource.Cache
+C:\Users\Jeremy\Desktop\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.exe.manifest
+C:\Users\Jeremy\Desktop\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.application
+P:\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.vbprojAssemblyReference.cache
+P:\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.exe
+P:\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.xml
+P:\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.pdb
+P:\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\bin\Debug\ung.exe.config
+P:\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\bin\Debug\ung.exe.manifest
+P:\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\bin\Debug\ung.application
+P:\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\bin\Debug\ung.exe
+P:\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\bin\Debug\ung.pdb
+P:\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\bin\Debug\ung.xml
+P:\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\Interop.EASendMailObjLib.dll
+P:\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.vbproj.ResolveComReference.cache
+P:\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.Form1.resources
+P:\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.Form2.resources
+P:\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.Resources.resources
+P:\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.Settings.resources
+P:\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.vbproj.GenerateResource.cache
+P:\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.vbproj.CoreCompileInputs.cache
+P:\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.exe.manifest
+P:\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.application
+C:\Users\Jeremy\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\bin\Debug\ung.exe.config
+C:\Users\Jeremy\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\bin\Debug\ung.exe.manifest
+C:\Users\Jeremy\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\bin\Debug\ung.application
+C:\Users\Jeremy\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\bin\Debug\ung.exe
+C:\Users\Jeremy\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\bin\Debug\ung.pdb
+C:\Users\Jeremy\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\bin\Debug\ung.xml
+C:\Users\Jeremy\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.vbprojAssemblyReference.cache
+C:\Users\Jeremy\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\Interop.EASendMailObjLib.dll
+C:\Users\Jeremy\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.vbproj.ResolveComReference.cache
+C:\Users\Jeremy\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.Form1.resources
+C:\Users\Jeremy\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.Form2.resources
+C:\Users\Jeremy\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.Resources.resources
+C:\Users\Jeremy\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.Settings.resources
+C:\Users\Jeremy\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.vbproj.GenerateResource.cache
+C:\Users\Jeremy\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.vbproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.exe.manifest
+C:\Users\Jeremy\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.application
+C:\Users\Jeremy\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.exe
+C:\Users\Jeremy\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.xml
+C:\Users\Jeremy\Documents\CollegeClassNotifier\1.2.0.1 Alpha\ung\ung\obj\Debug\ung.pdb
